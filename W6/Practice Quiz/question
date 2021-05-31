@@ -1,0 +1,6 @@
+Generate a random number between 1 and 25.
+Allow the user to input a guess
+then display if the guess was greater or less than the random number.
+Take at most 7 guesses from the player (Task 1).
+If the guess equals the random number, stop the game and display the output (Task 2).
+All guesses need to be saved, and outputted at the end of the game (Task 3).
